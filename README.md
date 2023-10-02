@@ -1,7 +1,7 @@
 
 # CPU Scheduling Algorithm
 
-Disclaimer: This was a Entry Level Project, based on Python and PyQt5, which I worked on in my Fifth Semester in Bahria University Karachi Campus.
+isclaimer: This was a Entry Level Project, based on Python and PyQt5, which I worked on in my Fifth Semester in Jinnah University Foe Women.
 
 This Project includes:
 - Python Implementation of Basic OS Scheduling Algorithms
